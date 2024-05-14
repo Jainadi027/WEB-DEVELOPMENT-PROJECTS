@@ -1,5 +1,3 @@
-// script.js
-
 const apiKey = "d13b1424ff233a063f485794d4317004";
 
 const searchInput = document.getElementById("search-input");
