@@ -1,5 +1,3 @@
-// script.js
-
 const qrCodeContainer = document.getElementById("qr-code-container");
 const qrCodeImg = document.getElementById("qr-code");
 const generateBtn = document.getElementById("generate-btn");
